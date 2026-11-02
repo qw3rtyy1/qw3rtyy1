@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=E11D48&center=true&vCenter=true&width=450&height=55&lines=qw3rtyy1;!+qw3rtyy_" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=0FB8AC&center=true&vCenter=true&width=450&height=55&lines=qw3rtyy1;!+qw3rtyy_" alt="Header" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Role-Structure_Lead_%26_Developer-27272a?style=flat-square&labelColor=18181b" alt="Role" />
-    <img src="https://img.shields.io/badge/Focus-Web_%2F_Bots_%2F_Infrastructure-e11d48?style=flat-square&labelColor=18181b" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Web_%2F_Bots_%2F_Infrastructure-0fb8ac?style=flat-square&labelColor=18181b" alt="Focus" />
     <img src="https://img.shields.io/badge/Status-Active_%26_Deploying-10b981?style=flat-square&labelColor=18181b" alt="Status" />
   </p>
 
@@ -40,7 +40,7 @@
     <td width="50%" valign="top">
       <h3>🖧 Server Architecture</h3>
       <p>
-        <img src="https://img.shields.io/badge/BGP_%2F_OSPF-ROUTING-18181b?style=for-the-badge&labelColor=555555&logo=cloudflare&logoColor=E11D48" alt="Routing" /><br>
+        <img src="https://img.shields.io/badge/BGP_%2F_OSPF-ROUTING-18181b?style=for-the-badge&labelColor=555555&logo=cloudflare&logoColor=0fb8ac" alt="Routing" /><br>
         <img src="https://img.shields.io/badge/PROXMOX_VE-VIRTUALIZATION-18181b?style=for-the-badge&labelColor=555555&logo=proxmox&logoColor=E57000" alt="Proxmox" /><br>
         <img src="https://img.shields.io/badge/NGINX-REVERSE_PROXY-18181b?style=for-the-badge&labelColor=555555&logo=nginx&logoColor=009639" alt="Nginx" /><br>
         <img src="https://img.shields.io/badge/PTERODACTYL-GAME_CLUSTERS-18181b?style=for-the-badge&labelColor=555555&logo=pterodactyl&logoColor=FF5722" alt="Pterodactyl" />
